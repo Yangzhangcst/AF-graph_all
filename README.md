@@ -1,5 +1,5 @@
 # AF-graph_all
-Source code on MSRC dataset for the paper "Affinity Fusion Graph-based Framework for Natural Image Segmentation". The AF-Graph paper can be found [here](https://arxiv.org/abs/2006.13542).
+Source code on MSRC dataset for the paper "Affinity Fusion Graph-based Framework for Natural Image Segmentation". The AF-Graph paper can be found [here](https://arxiv.org/abs/2006.13542). A list of papers and datasets about natural/color image segmentation can be found in our [repository](https://github.com/Yangzhangcst/Natural-color-image-segmentation).
 
 AF-Graph is modified from [the offcial SAS implementation](http://www.ee.columbia.edu/ln/dvmm/SuperPixelSeg/dlform.htm).
 
