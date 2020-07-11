@@ -13,7 +13,7 @@ The original MSRC dataset can be downloaded from [here](https://www.microsoft.co
 
 
 ### Demo
-Run the demo `demo_AF_Graph_MSRC.m` in parallel on 4 workers (`parfor` in `KSC_graph`).
+Run the demo `demo_AF_MSRC.m` in parallel on 4 workers (`parfor` in `KSC_graph`).
 
 
 ### Results of MSRC dataset
