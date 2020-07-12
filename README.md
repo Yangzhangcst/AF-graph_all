@@ -9,7 +9,7 @@ The code requires the version of Matlab2018a, Ubuntu 16.04.
 
 
 ### Data
-The original MSRC dataset can be downloaded from [here](https://www.microsoft.com/en-us/research/project/image-understanding/?from=http%3A%2F%2Fresearch.microsoft.com%2Fvision%2Fcambridge%2Frecognition%2F). We place the processed dataset in `database/` folder.
+The original MSRC dataset can be downloaded from [here](https://www.microsoft.com/en-us/research/project/image-understanding/?from=http%3A%2F%2Fresearch.microsoft.com%2Fvision%2Fcambridge%2Frecognition%2F). We place the processed dataset in `database/MSRC/` folder.
 
 
 ### Demo
